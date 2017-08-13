@@ -1,0 +1,160 @@
+
+Clase de Administracion de Recursos, 08-07-17
+
+Estrategias de Negocio:
+
+- Liderazgo de Precios: Consiste en mantenerse competitivo aventajando a la competencia en materia de costos.
+                        La ventaja de costos puede ser reflejada en precios mas bajos o puede ser aprovechada para
+                        reinvertir el ingreso adicional del negocio. Es necesaria la Economia de escala, ya que se necesita de
+                        una cierta infraestructura para mantener la produccion y los precios bajos.
+                        
+
+- Diferenciacion: Es la estrategia mas usual cuando se presenta la necesidad de diversificar la oferta
+                  de productos o servicios.
+                  Consiste en crear un valor sobre el producto ofrecido para que este sea percibido en el
+                  mercado como unico. Puede tratarse de diseño, magen de la marca, tecnologia, servicio al cliente, etc.
+
+- Enfoque: En la actualidad, esta es la estrategia mas frecuente para la creacion de nuevos negocios.
+           Reconoce que hay una gran cantidad de oportunidades en el mercado para una oferta productos
+           y servicios especializada.
+           El desarrollo de una estrategia de foco implica la identificacion de un nicho de mercado
+           que aun no ha sido explotado.
+
+M&A (Merge and adquisition): Planificacion de como sera la adquisicion o fusion con otras empresas. Integracion,
+                             crear procesos, etc.
+
+Conceptos generales sobre proyectos
+¿Que se requiere para que un proyecto sea exitoso?
+
+* Colaboracion: trabajando en un unico equipo. Ejemplo: Debido a que se va a trabajar con distintos proveedores / consultoras
+  y al cliente no le interesa estar en contacto con todos ellos, entonces nosotros trabajamos como un unico equipo de trabajo de forma
+  de ofrecer una unica interfaz.
+
+* Involucramiento: contando con apoyo de referentes claves a efectos de que los mismos actuen como "facilitadores" durante el
+  desarrollo del proyecto
+
+* Disponibilidad: participando y cumpliendo con las reuniones programadas en el proyecto
+  Kick-off: Formalizacion de una reunion de proyecto.
+
+* Acceso: a toda la informacion que se requiera
+
+* Convalidacion en tiempo y forma: de las actividades concluidas y productos entregados a efectos de permitir el
+  cumplimiento de los plazos estipulados. (*)
+
+* Comunicacion: adecuada con los stakeholders internos y externos: clientes, proveedores y vendedores, etc
+
+
+(*) Nota ejemplo: para el caso de entregable sse requiere convalidacion dentro de las 48 hs, una vez entegada la
+    correspondiente documentacion.
+
+Rol y Responsabilidades:
+========================
+
+Roles
+
+* Comite de direccion (Cliente)
+- Responsabilidad y autoridad final del proyecto.
+- Brindar direccion estrategica y apoyo al equipo de proyecto.
+- Participar en el kick off - Comunicar la identidad institucional del proyecto.
+- Nivel mas alto de escalamiento en la resolucion de hallazgos (issues)
+- Evaluar la performance y calidad del proyecto.
+- Autorizar las solicitudes de cambios de alcance.
+- Dar conformidad en el cierre del proyecto (tiene la palabra final porque es quien pone el dinero (es el cliente)).
+
+* Gerente del proyecto
+- Participar en el kick off
+- Lograr el exito del proyecto y los beneficios identificados
+- Asegurar que el proyecto transcurra de acuerdo con lo planificado
+- Proveer alineamiento y control
+- Responsable del exito del proyecto
+- Brindar apoyo al equipo de proyecto
+- Dar conformidad en el cierre del proyecto.
+
+* Sponsor del proyecto (Cliente)
+- Participar en el kick off - Exponer la necesidad y valor que generara el desarrollo del proyecto.
+- Patrocinar y proveer liderazgo general en el proyecto.
+- Impulsar el cumplimiento de los objetivos del proyecto.
+- Verificar que el proyecto cumple con las necesidades y expectativas de los stakeholders
+- Dar conformidad en el cierre del proyecto.
+
+* Coordinador de Proyectos (Proveedor)
+- Llevar a cabo la direccion del proyecto, administrando los equipos y el presupuesto.
+- Comunica el progreso y resultados del proyecto a todo el equipo de trabajo y a traves de la PMO, en caso de existir.
+- Valida la presentacion de solicitudes de cambios. CCB (change control board)
+- Perfil: Tecnico y Comercial (debe tener conocimientos de ambos porque tiene que saber de la parte tecnica,
+          pero tambien asesoramientoy conocimiento sobre como vender un producto/ proyecto, etc.
+          Poder calcular la viabilidad y conocer el mercado).
+
+* Staffing Manager:
+- Coordina los recursos (humanos).
+- Lleva cuenta de los perfiles de todos los recursos.
+- Asigna personal.
+- Es importante llevarse bien con esta oficina porque es quien asigna personal. En caso de no llevarse bien puede no asignar los
+  recursos correctos, llevando a perdidas en el proyecto.
+
+
+* Lider de Proyecto (Cliente)
+- Participar en el kick off
+- Principal punto de contacto con el lider de proyecto del proveedor.
+- Coordinar cuestiones relacionadas al proyecto (Arquitectura de Informacion, Diseño, Funcionalidades y tecnologia)
+  a traves de los lideres de equipo correspondientes
+- Recibir solicitudes de informacion del proyecto y coordinar sus respuestas.
+- Liderar las tareas asignadas a cada uno de los recursos.
+- Comunicar las etapas con las que contara el proyecto: Inicio, Analisis, Diseño, Desarrollo, Homologacion, Pruebas:
+  Prueba piloto, prueba unitaria, prueba de integracion , prueba de aceptacion, implementacion y cierre.
+- Comunicar fechas objetivo del proyecto. Fecha de inicio, fecha de cierre de etapas definidas en el proyecto, fecha de
+  cierre.
+- Responsable de completar y entregar los documentos que se soliciten de acuerdo con la metodologia de proyectos, como ser
+  Project Charter/ Governance/ planilla de RRHH asignados / Macro Plan / Plan de Trabajo - Cronograma.
+- Responsable de relevar el status / avances del proyecto con cada uno de los recursos asignados.
+- Comunicar al project manager / Project member el status, avances y objetivos alcanzados.
+- Generar planes de accion de acuerdo con los riesgos, issues, cambios de alcance y replanificaciones identificados.
+- Dar conformidad en el cierre del proyecto.
+
+* Lider de Proyecto (Proveedor)
+- Mantener comunicacion constante con el lider del proyecto y PMO
+- Conformar el plan de trabajo y supervisar la performance y necesidades del equipo
+- Llevar a cabo la ejecucion del Proyecto.
+- Identificar riesgos relativos a los recursos, sus asignaciones y plazos de entrega
+
+* Lider de Equipo - Negocio (Cliente)
+- Participar en el kick off
+- Analizar conjuntamente con el project manager / project member, potenciales riesgos, issues, cambios de alcance y
+  re-planificacion.
+- Alcanzar los estandares de calidad dentro de los limites de presupuesto y tiempo especificados
+- Liderar las tareas asignadas y relevar el status/ avance del proecto de su equipo de trabajo
+- Comunicar al project manager status, avance y objetivos alcanzados
+- Analizar con el PMO riesgos, issues y cambios de alcance y genrar los planes de accion asociados.
+- Dar conformidad con el cierre del proyecto.
+
+* Equipo de Trabajo
+- Ejecutar las tareas asignadas por el lider del proyecto.
+- Identificar y reportar nuevos riesgos y hallazgos al lider del proyecto, enfocandose en la calidad
+- Colaborar en tareas que involucran: Inicio, Analisis, etc
+- Informar status de tareas asignadas.
+- Dar conformidad en el cierre del proyecto
+
+
+Tipos de Clientes
+
+Matriz definida por el Harvard Business School
+
+- Terrorista:
+Cualquiera sea la parte en la que el se encuentre, tratara de destruir la empresa.
+
+- Rehen:
+Atrapado en las redes de la empresa, permanece alli porque no le queda mas remedio,
+no consigue otra opcion y no le gusta lo que le ofrecen
+
+- Mercenario:
+En el momento en que la empresa no le de todo lo que esta acostumbrado a recibir o su competidor ofrezca algo parecido
+es en el momento en el cual se ira.
+
+- Apostol:
+Es el cliente que propaga siempre los beneficios que ha recibido en su relacion con la empresa y es capaz de "evangelizar"
+para que otros tambien disfruten de dichos beneficios.
+
+2 ejes, satisfaccion (Y) y Lealtad (X)
+
+Para la proxima:
+- Estrategia de negocio.

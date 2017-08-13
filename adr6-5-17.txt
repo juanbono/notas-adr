@@ -1,0 +1,62 @@
+
+
+# Integracion
+
+Estrategia -> implementacion (proyecto) -> Operacion (mantenimiento, metricas, reformulaciones, etc)
+
+Estrategia: apuntamos a hacer un Anteproyecto:
+estructura:
+
+Plan de proyecto:
+1- plan de alcance
+2- plan de plazos
+3- plan de costos
+4- plan de calidad
+5- plan de recursos humanos
+6- plan de comunicaciones
+7- plan de abastecimientos/adquisiones (hacemos nosostros o mandamos a hacer?)
+8- plan de riesgos 
+9- plan de interesados
+10-plan de control de cambios
+
+Secuencia de fases tipicas en un ciclo de vida de proyecto
+
+Inicial -> INtermedia -> final
+
+Inicial: Idea, Equipo de Direccion de proyecto, acta de proyecto, enunciado de alcance.
+
+Intermedio: Plan, Linea Base, Avance, Aceptacion
+
+Final: Aprobacion, Entrega
+
+
+Linea Base: Instantanea inicial, de que es lo que queremos lograr, cuales son nuestras skills.
+Puede haber cambios (no se pueden predecir) pero no se deberian hacer muy seguido.
+
+SOW: Statement of Work - declaracion de trabajo. <- Lo hace el cliente, porque entiende lo que hay que hacer.
+
+Enunciado de alcance <- Lo hace el equipo de trabajo.
+
+Ciclo de vida del Producto: Relacion con el ciclo de vida del proyecto.
+
+Plan de negocio --> Operaciones
+
+--> = idea -> actualizacion
+
+
+              idea | -> ----------> actualizacion--------------->| 
+Plan de negocio -> | Inicial -> Intermedia -> Final | -producto> Operaciones
+
+
+
+En el ciclo de vida del producto, se pueden realizar varios proyectos para poder incrementar la demanda del producto (hacerlo mas atractivo)
+
+###########################
+Enunciado Trabajo practico
+Anteproyecto:
+
+Mayo 2017
+
+* Caso de estudio:
+
+* 

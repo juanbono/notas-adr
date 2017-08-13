@@ -1,0 +1,65 @@
+
+
+
+Administracipn de recursos:
+
+
+Estructura de desglose de trabajo (EDT)
+
+¿Que es la edt?
+- Es un producto de la definicion del alcance.
+- Identifica todo el trabajo a realizar.
+
+¿Que caracteristicas tiene?
+- Organiza y define el alcance total del proyecto.
+- Estructura los entregables en diferentes niveles, con desglose suficiente para seguimiento.
+
+Es fundamental para :
+- Lista de productos a entegar.
+- Estimacion de costos.
+- Informes sobre el avance.
+
+
+
+EL primer nivel jerarquico de la eDT podria ser el cico de vida del proyecto.
+
+Ejemplo:
+En el sector petrolero se suele observar que el priemer nivel con la siguiente division:
+
+Factibilidad, seleccion, deifncion, ejecucion y operacion.
+
+En cuantos niveles debo descomponer el proyecto:
+
+se deberia subdividir hasta el punto en el que los costos y el cronograma puedan estimarse con precision para cada paquete de trabajo.
+
+
+Considerar: En la EDT no se incluyen tareas, solo entregables, sub-entregables y paquetes de trabajo.
+
+
+3 niveles que debemos tener en una EDT:
+
+* Cuenta de control:
+Lugares en la EDT donde se mide el progreso del alcance, el cronograma y los costos. Cada cuenta Control incluye uno o mas paquetes de trabajo.
+
+* Paquetes de trabajo:
+Estan ubicados en la EDT por debajo de las cuentas de control y por encima de los paquetes de trabajo (ultimo nivel en la edt)
+
+* Paquetes de Trabajo:
+Ultimo nivel de cada division de la EDT.
+
+
+Definiciones funcionales basicas:
+
+Se debe definir claramente la funcionalidad que se espera de la solucion. CUando se habla de la solucion se lo hace de forma generica, pudiendo ser de divertos tipos segun el proyecto en cuestion.
+
+EJemplo:
+* un producto de sotware a construir e implementar.
+* UN producto a adquirir e implementar.
+* Una reingenieria de procesos
+* Una red de comunicaciones
+* Otro tipo de solucion o combinacion de las mencionadas.
+
+Se debe explicar las funcionalidades bascias globales. Se recomienda realizar una descripcion previa de la funcionalidad actual y poder comprar las diferencias con el nuevo esquema propuesto.
+
+Uno de los aspectos fundamentales es que, a partir de la definicion, se estara en condiones de realizar una estimacion del esfuerzo necesario para la ejecion y realizacion del plan global del proyecto.
+

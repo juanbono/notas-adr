@@ -1,0 +1,65 @@
+
+Estructura de un anteproyecto:
+Cuando nos metemos en un anteproyecto: 3 niveles
+
+Estrategia
+Proyecto (en si)
+Operacion
+
+
+1 - Resumen Ejecutivo
+¿Que deberia contener?
+* Disparador
+* Costos/Beneficios
+* Qué vamos a hacer
+* Cómo lo vamos a hacer
+
+Su enfoque deberia ser comercial.No incluir mucho tecnicismo
+
+* busca incentivar a quien se lo estamos presentando para que continue evaluando nuestra propuesta de valor
+
+
+Disparador: Descripcion de lo que dispara la Oportunidad de Negocio, Solucion, Idea, Emprendimiento, etc
+
+* Costos y Beneficios: Descripcion de los costos que demanda el anteproyecto y los beneficios que traera.
+
+La parte de costos, es a grandes rasgos, debido a que nosotros(quienes proponemos la idea) sabemos los grandes costos (o deberiamos saberlos, ya que somos quienes sabemos el COMO y el QUE). Pero no sabemos todos los detalles de la empresa a la que se lo proponemos. Hay que saber si disponemos de los recursos para hacerlos (recursos humanos/fisicos)
+
+* Que y como se va a realizar: Descripcion de lo que se quiere realizar (solucion) y como se piensa realizarlo
+
+
+2 - Introduccion
+
+Podemos hablar de la mision y vision nuestra siempre y cuando seamos externos a la empresa a la que dirigimos la propuesta.
+Si fuesemos internos a la misma no tendria sentido, ya que seria la misma.
+
+Si somos externos, contar tiempo en el mercado, clientes anteriores, recursos propuestos, casos de exito, experiencia, etc.
+Ampliar los puntos del resumen ejecutivo, alineado con la mision, vision y el equipo de trabajo que proponemos.
+
+Si somos internos, en la introduccion podemos incluir "POR QUE HACER ESTO Y NO OTRA COSA". Que valor agregaria esta solucion, etc. Para que el que sea el encargado de aceptar el proyecto se quede tranquilo de que nuestra propuesta es algo necesario y que ha de hacerse.
+(Una justificacion).
+
+Objetivo General: Es una declracion qeu describe el proposito del proyecto.
+Ejemplos
+Implementar un anueva propuesta de valor para clientes de renta alta que permita a la organizacion posicionarse como un referente en este segmento.
+
+Respaldar el modelo de gestion de reservas online, a partir de la implementacion de una solucion que permita agilizar el proceso de asignacion de vuelos
+
+EL obj tiene que ser
+Objetivo especifico: expresan una desegregacion del objetivo general en resultados concretos que peudan ser identificados y cuantificados en forma individual . para ser especificos y concretos, los objetivos deben estar basaddos en entregables.
+
+Especificos: los objetivos de un proyecto debenestablecer metas a alcanzar .Deben limitarse a elementos esenciales del proyecto que definen el proposito del mismo y el destino esperado.
+
+mesurables: los objetivos son algo un poco mas complejo y pueden ser medidos por metricas mas especificas . un aspecto importante a considerar es el respaldo de cifras con sus respectivas unidades de medida para establecer un objetivo. frases del estilo "aumentar la produccion , reducir costos, mejorar la calidad2, no son aplicacbles a un objetivo que pretende ser profesional.
+
+* consensuados: todos los participantes y en especial aquellos que controlan los recursos, deben tomar conciencia y acordar la importancia de desarrollar el proyecto.
+
+* realistas : en sentid ode factibilidad.. significa que el objetivo esta encuadrado en al estrategia de la empresa.
+
+* planificado: debe haber un plamn trackeable.
+- mesurable
+- planificable
+- debe agregar valor
+- realista
+- debe ser concensuado
+- especifico

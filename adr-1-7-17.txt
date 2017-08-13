@@ -1,0 +1,149 @@
+
+Administracion de Recursos:
+
+1ero de Julio de 2017
+
+Analisis FODA
+=============
+
+F: Fortalezas
+O: Oportunidades
+D: Debilidades
+A: Amenazas
+
+Permite reflejar un estado de situacion (en un momento determinado)
+
+Tecnica que permite conformar un cuadro de situacion actual de las areas significatvas relacionadas
+con el proyecto, a fin de obtener un diagnostico preciso que permita tomar decisiones. Los administradores de proyectos
+y los analistas de negocio utilizan dicha herramienta para evaluar el proyeto, familiriazarse con la posiicon del mismo en el mercado
+y analizar la relacion con los competidores antes de determinar alguna estrategia
+
+- Fortalezas: (Interna)
+  Son los recursos y capacidades especiales que posee el proyecto y por los que cuenta con una posicion privilegiada
+  frente a la competencia.
+
+- Oportunidades: (Provienen del entorno / externa)
+  Son aquellas posibilidades favorables que se deben reconocer o descubrir en el entorno en el que se desarrolla
+  el proyecto y que permiten obtener ventajas competitivas.
+
+- Debilidades: (Interna)
+  Son aquellos factores que provocan una posicion desfavorable frente a la competencia.
+
+- Amenazas: (Provienen del entorno / externa)
+  Son aquellas situaciones que provienen del entorno y que pueden llegar a atentar incluso contra el cumplimiento
+  exitoso del proyecto.
+
+Estrategias: 
+
+* MAX Y MIN:
+
+* MIN Y MAX:
+
+* MIN MIN:
+
+* MAX MAX:
+
+En el tp: en el analisis de mercado (Analisis FODA)
+
+5 fuerzas de Porter
+===================
+
+(Analiza la rivalidad que existe en la industria, un mercado, un negocio, yendo de lo general a lo especifico)
+
+Representa un enfoque muy popular para la planificacion de la Estrategia Corporativa.
+Segun Porter existen 5 fuerzas que determinan las consecuencias de rentabilidad a largo plazo
+de un mercado o de algun segmento de este.
+La idea que es que la corporacion debe evaluar sus objetivos y recursos frente a estas fuerzas
+que rigen la competencia industrial:
+
+* Poder de Negociacion de los proveedores:
+Un mercado o segmento de este no sera atractivo cuando los proveedores esten muy bien organizados
+gremialmente, tengan fuertes recrusos y puedan imponer sus condiciones de precio y tamaño de pedido.
+La situacion sera aun mas complicada si los insumos que suministran son claves para nosotros,
+no tienen sustitutos o son pocos y de alto costo.
+Tambien sera critica la existencia de integracion vertical.
+
+* Poder de Negociacion de los compradores:
+Un mercado o segmento no sera atractivo cuando los clientes esten muy bien organizados, el producto
+tenga varios o muchos sustitutos, no sea muy diferenciado o tenga un bajo costo para el cliente, lo que
+permite que pueda hacer sustituciones por igual o a muy bajo costo. A mayor organizacion de los compradores,
+mayores seran sus exigencias en materia de reduccion de precios, de mayor calidad y servicios.
+Por consiguiente la corporacion tendra una disminucion en los margenes de utilidad. Tambien sera critica
+la existencia de integracion vertical.
+
+* Amenazas de Entrada a nuevos competidores:
+El atractivo del mercado o del segmento depende de que tan faciles de franquear (romper) sean las barreras de entrada
+por parte de nuevos participantes que quieran participar con nuevos recursos y capacidades para apoderarse de una porcion
+del mercado.
+
+* Amenaza de Ingreso de Productos Sustitutos:
+Un mercado o segmento no es atractivo si existen productos sustitutos reales o potenciales. Las sustituciones
+se podran complicar si aun mas si los sustitutos son tecnologicamente mas avanzados o de precios mas bajos
+reduciendo los margenes de utilidad de la corporacion y de la indrusia.
+
+- Costo de Oportunidad: <Buscar>
+
+- VAN: No dice cuanto vamos a ganar por un proyecto, solo explica cuanto suma, si genera o no valor. Tiene que ser mayor a 0.
+       Pero luego el numero en concreto no aporta mucha informacion tampoco.
+
+* Rivalidad entre los competidores (de una determinada industria):
+Para una corporacion sera mas dificil competir en un mercado o en uno de sus segmentos donde los competidores esten
+muy posicionados, sean muy numerosos y los costos fijos sean altos pues constantemente estara enfrentada a guerras
+de precios, campañas pulicitarias agresivas, promociones y entrada de nuevos productos.
+
+-- El analisis Porter va a terminar diciendo cuanto o no me conviene entrar en ese industria/mercado/negocio
+
+En Porter hay
+ * 2 poderes del negociador (proveedores y proveedores)
+ * 2 amenazas (competencia potencial , sustitutos)
+
+Todas confluyen en permitirnos saber que tanta es la rivalidad entre los distintos competidores en la industria.
+        
+Integracion Vertical : Cuando la empresa tiene control de varias partes de la cadena que lleva para hacer un producto
+Ejemplo: una empresa que no solo hace su producto sino tambien produce su propia materia prima (en vez de recurrir a proveedores)
+
+Integracion Horizontal: cuando la empresa tiene muchos productos dentro de un area
+Ejemplo: muchos productos para vender del mismo tipo o en el mismo rubro.
+
+Costos de entrada:
+ - legislacion (leyes que impidan la entrada).
+ - Competidores asentados.
+ - Costos de infraestructura (si son altos es mas riesgoso ingresar).
+ - Costos de desactivacion.
+
+Costos de salida:
+ - Cuanto nos cuesta recuperar capital en caso de salir del negocio/mercado/industria.
+
+Matriz BCG
+==========
+
+Producto estrella: El producto mas representativo
+Producto Perro: El que hay que sacarlo
+Producto Dilema: Producto que no sabemos si sacarlo o no
+Producto Vaca: El que da ingresos seguros.
+
+La matriz BCG
+Se utiliza para llevar a cabo un analisis de la cartera de negocios, asi como
+la posicion de un negocio o un producto dentro del mercado. (Tener en cuenta Oferta y Demanda)
+
+* Negocios/ Productos Estrella:
+Alta participacion con una alta tasa de crecimiento del mismo. Son negocios generadores de rentabilidad pero requieren
+constantes inversiones lo que hacen que tengan un flujo de fondos nulo o negativo generalmente.
+
+* Negocios/ Productos Vaca:
+Son aquellos negocios que tienen una alta participacion en el mercado pero en el mercado tiene una baja tasa de crecimiento.
+En este estado los negocios son generadores de ingresos lo que implica una imporante rentabilidad y con bajas inversiones
+
+* Negocios/ Productos Interrogacion (Dilema):
+Estos negocios tienen una baja participacion en el mercado y el mercado a su viez tiene una alta tasa de crecimiento.
+Son negocios que no se conoce exactamente que pasara con ellos. Requieren de constantes inversiones, las cuales se desconoce
+si seran rentables o no.
+
+* Negocios/ Productos Perro:
+Que combina una baja participacion del mercado por parte de la empresa, con un mercado estancado o pleno decrecimiento.
+Son productos en su ultima etapa del ciloc de vida generalmente.
+
+Tarea:
+FODA
+PORTER
+Matriz BCG

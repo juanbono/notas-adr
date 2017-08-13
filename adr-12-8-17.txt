@@ -1,0 +1,147 @@
+
+Clase de Administracion de Recursos
+Fecha: 12/8/17
+
+SME = Subject Matter Expert
+
+Matriz RACI
+===========
+Ayuda a hacer una evaluacion de los responsables de las tareas del proyecto.
+
+- Responsable: Es el individuo que tiene como objetivo la *realizacion y entrega* de la tarea, actividad, documento o entregable.
+- Aprobador: Es el dueño del entregable, proporciona la informacion y asegura que los mismos sean completados en tiempo y forma.
+- Consultado: Es un experto en la materia, tiene experiencia y un punto de vista muy importante.
+              Puede ser consultado antes de que se tome una decision sobre un determinado tema. Ej: SME
+- Informado: Individuo que tiene que ser informado despues de que se toma una determinada decision o se completa una tarea.
+             No debe ser necesariamente consultado.
+
+
+Gestion de la demanda: (Requerimientos e Incidentes)
+
+Matriz RACI:
+============
+
+Tips Generales:
+
+  * Cada actividad o tarea debe tener "una y solo una" letra "A", ya que el responsable final tiene que ser un unico Rol.
+      Porque pueden ocurrir conflictos, y en el peor de los casos, ninguno de los aprobadores quiere aprobar el proyecto.
+  * Todo Rol con una "A" debe poseer la autoridad suficiente para poder desempeñarlo.
+      
+  * Las letras "R" esten referidas a tareas concretas y especificas, para que no resulten ambiguas.
+    
+  * No pretender "linkear" directamente procesos con departamentos, ya que las tareas del proceso seguramente
+    involucren Roles de mas de un departamento.
+    
+  * Si se consulto al Rol "C", no tomar decisiones antes de obtener respuesta.
+      Debido a que el hecho de consultar a alguien incurre en gastos (Nuestros o de otros).
+
+  * No detenerse ante un "I", avisar es suficiente, ni copiar en los correos a quienes no cuentan con un "I".
+
+
+Analisis vertical y horizontal:
+
+Analisis vertical (a nivel de Roles)
+
+* Excesivas R a cargo de un mismo rol
+    
+* Inexistencia de espacios vacios
+
+* Excesivas A a cargo de un mismo rol
+
+* Existencia de "R" en tareas independientes entre si
+
+Analisis horizontoal (a nivel de tareas)
+
+* Excesivas R en una misma tarea
+
+* inexistencai de "R"
+
+* Demasiadas "C"
+
+* Excesivas "I" 
+
+
+Riesgo:
+=======
+Un riesgo es la amenaza de que un evento, accion o actividad incierta afecte la capacidad de un Proyecto para alcanzar sus objetivos.
+La identificacion y analisis temprano del Riesgo y su gestion proactiva resulta clave para el exito del Proyecto.
+
+  - Probabilidad:
+    Estimacion que se asigna al evento incierto y que representara la posibilidad de que el mismo suceda.
+
+  - Impacto:
+    Descripcion de sus consecuencias sobre los objetivos, alcance y/o cronograma definidos para cada Proyecto.
+
+  - Hecho incierto:
+    Es toda condicion que de ocurrir, afectara el Alcance, los tiempos, Costos y/o la Calidad de un Proyecto.
+
+Gestion de Riesgos: Un riesgo esta compuesto por tres elementos fundamentales: Evento Incierto / Probabilidad / Impacto.
+
+* Tipos de riesgos:
+  - Contrato:
+  - Externo
+  - Financiero
+  - Funcional
+  - Calidad
+  - Organizacion
+  - Performance
+  - Project Management
+  - Recursos
+  - Calendario
+  - Alcance
+  - Tecnico
+  - General
+
+Matriz de Scoring sobre la severidad de los riesgos
+____________________________________________________________________________
+|-------------- ||                      Probabilidad                      ||
+|==========================================================================|
+| Impacto       || 1-Bajo | 2-Bajo/Medio | 3-Medio | 4-Medio/Alto | 5-Alto |
+| 5-Alto        ||        |              |         |              |        |
+| 4-Medio/Alto  ||        |              |         |              |        |
+| 3-Medio       ||        |              |         |              |        |
+| 2-Medio/Medio ||        |              |         |              |        |
+| 1-Bajo        ||        |              |         |              |        |
+----------------------------------------------------------------------------
+
+Escala de nivel de Riesgo
+______________________________
+| Clasificacion  | Severidad |
+|=========================== |
+| 0-4            | Bajo      |
+| 6-10           | Medio     |
+| 12-18          | Alto      |
+|____________________________|
+
+________________________________________________________________________________________
+| Nivel de Escalamiento | Descripcion del Nivel | Severidad del riesgo - Clasificacion |
+| =====================================================================================|
+| Nivel 1               | Comite de direccion,  | Alto                                 |
+|                       | Ejecutivo             |                                      |
+| Nivel 2               | Sponsor,              | Medio a Alto                         |
+|                       | Director del proyecto |                                      |
+| Nivel 3               | Project Manager o     | Bajo a Medio                         |
+|                       | lider de equipo       |                                      |
+|______________________________________________________________________________________|
+
+
+Medidas que se pueden tomar con los riesgos:
+
++ Mitigar
++ Aceptar
++ Transferir
++ Evitar
+
+
+Gestion de Issues
+
+Un Issue, es un problema o dificultad qye afecta a las actividades del Proyecto,
+Comprometiendo el logro de sus objetivos, alcance, cronograma o presupuesto.
+
+Issue != Riesgo
+
+Issue = Riesgo materializado
+
+Riesgo = (lo de antes)
+
+

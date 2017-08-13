@@ -1,0 +1,92 @@
+
+
+Administracion de recursos 29/4/17
+----------------------------------
+___________________________________________________________________
+|Planificacion   | Ejecucion                | Seguimiento y Control|
+|==================================================================|
+|Plan de calidad | Aseguramiento de Calidad | Control de la calidad|
+|----------------|--------------------------|----------------------|
+|                |                          | Metricas             |
+|------------------------------------------------------------------|
+| Identificacion |                          |                      |
+| de los riesgos |                          |                      |
+|----------------|--------------------------|                      |
+| analisis       |                          | Control de riesgo    |
+| cualitativo    |                          |                      |
+|----------------|--------------------------|                      |
+| analisis       |                          |                      |
+| cuantitativo   |                          |                      |
+|----------------|--------------------------|                      |
+| plan de        |                          |                      |
+| mitigacion     |                          |                      |
+| de riesgos     |                          |                      |
+-------------------------------------------------------------------
+
+Cross - transversal a los anteriores: Grupos de proceso.
+
+Partes del proyecto donde hay que esforzarse mas (puntos criticos):
+Inicio -> creacion del plan
+Ejecucion
+
+
+Conceptos generales sobre proyectos
+===================================
+
+Factores criticos de exito y de influencia: para lograr el exito de un proyecto. es necesario que se reunan los siguientes factores:
+* colaboracion -> trabajando como un unico equipo.
+* involucramiento -> contando con apoyo de referentes claves a efectos de que los mismos actuen como "facilitadores" durante el desarrollo del proyecto.
+* disponibilidad -> participando  y cumpliendo con las reuniones programadas en el proyecto.
+* acceso -> a toda la informacion que se requiera.
+* convalidacion en tiempo y forma -> de que las actividades concluidas y productos entregados, a efectos de permitir el cumplimiento de los plazos estipulados (1)
+* comunicacion -> adecuada con los stakeholders internos y externos ej: clientes, proveedores, vendedores,etc
+Plan de comunicacion:
+- definir los involucrados
+- definir el canal de comunicacion y el medio (fisica, no fisica, etc)
+- definir objetivo y action items (compartirlos antes de ir a la reunion)
+- tratar de 
+- Salida: Reporte de proyeccion, de estatus, minutas, (lo que se hablo en la reunion)
+
+Action Item
+- descripcion
+- responsable
+- cual es el "due date", fecha objetivo.
+
+
+(1) Nota ejemplo: para el caso de Entregables, se requiere convalidacion dentro de las 48hs, una vez entregada la correspondiente documentacion.
+
+
+SBI = Situation -  Behaviour - Impact
+"La situacion de X fue B y tuvo el impacto I, el esperado fue B2, analisis y plan de accion para que X se corrija"
+
+
+Beneficios de la gestion de proyectos
+=====================================
+
+Cuando se ejecutan multiples proyectos simultaneamente y se tiene limitaciones con respecto a los recursos criticos la gestion de proyectos ayuda a gestionarlos y lograr objetivos propuestos.
+
+Los beneficios principales que surgen de la aplicacion de una metodologia de gestion de proyectos son:
+
+- Gestion Integral de la cartera de proyectos
+
+- Calidad en la gestion y ejecucion de los proyectos
+
+- Satisfaccion del cliente
+
+- Estandarizacion de procesos y herramientas
+
+- Desarrollo de habilidades de Gestion de Proyectos
+
+- Gestion proactiva de Riesgos e Issues
+
+- Eficiencia durante la ejecucion de los proyectos
+
+Riesgo: evento incierto que puede tener impacto positivo o negativo. Posee una probabilidad y un impacto.
+Evitar: bajar prob del riesgo a 0, cambio en los planes, ya no me veo afectado por el riesgo.
+mitigar: tratar de reducirlo a 0, pero siempre queda algo de prob de que suceda. 
+
+Desafios de la gestion de proyectos - PMO (Project Management Office)
+- Entendimiento de la gestion de proyectos por parte del negocio.
+- Incrementar la perception de valor. (hacer conocer a los stakeholders del valor de la PMO y sus beneficios, buscar a alguien que se haga responsable)
+- educar a los stakeholders que no entienden su papel en los proyectos.
+- mejorar y perfeccionar el uso de herramientas.

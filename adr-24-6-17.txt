@@ -1,0 +1,231 @@
+
+ADR 24-06-17
+
+Clase con Karen
+
+Gerentes como tomadores de decisiones:
+
+Su transcurso en la empresa se basa en tomar decisiones.
+No es solamente elegir entre 2 alternativas, Sino que lleva un proceso.
+Hay decisiones rutinarias, pero tambien hay decisiones que hay que elaborar
+un proceso para poder llegar a buen termino.
+
+Hay 8 etapas en el proceso (pueden ser mas o menos).
+
+1.- Identificar un problema. (Subjetivo)
+2.- Identificación de los criterios de decisión.
+3.- Ponderación de los criterios. (Subjetivo)
+4.- Desarrollo de alternativas.
+5.- Analisis de Alternativas.
+6.- Seleccion de alternativa.
+7.- Implementación de una alternativa.
+8.- Evaluacion de la efectividad de la decisión.
+
+Ejemplo:
+========
+
+Gerente de una empresa que tiene sus empleados en el sector de venta,
+quienes estan pidiendo que les cambien las computadoras.
+
+Supuestos:
+- No es conveniente añadir memoria a las computadoras viejas
+
+- Es politica de la compania comrpar en lugar de alquilar u operar con
+  leasing.
+
+Identificacion de criterios y ponderacion de criterios
+Memoria y almacenamiento |10
+vida de la bateria       | 8
+peso para transportarla  | 6
+garantia                 | 4
+calidad de la pantalla   | 3
+
+Desarrollo de alternativas
+Analisis de alternativas
+
+A cada marca le da una puntuacion en cada uno de los criterios.
+Ejemplo
+Toshiba Protege
+memoria: 10
+vida de bateria:3
+peso para transportarla: 10
+garantia:8
+calidad de la pantalla: 5
+
+Seleccion de una alternativa:
+Multiplicamos la puntuacion de cada opcion por la ponderacion de cada criterio.
+Por ejemplo para el Toshiba Protege:
+puntuacionMemoria(ToshibaProtege) * ponderacion(Memoria) = 10 * 10 = 100
+puntuacionVIdaBateria(ToshibaProtege) * ponderacion(VidaBateria) = 3 * 8 = 24
+...
+
+Se calcula la sumatoria de todas las puntuaciones por alternativa.
+Luego se pone un margen de aceptacion y se descarta aquellas alternativas cuya
+sumatoria este por debajo de este margen.
+Finalmente se elije la alternativa con mayor margen.
+
+Implementacion de una alternativa:
+Claves:
+* Comunicacion
+* Lograr compromiso
+* Participacion (por parte del gerente) en el proceso es favorable
+* Reevaluar el ambiente por si se registran cambios que afecten la decision
+
+Evaluacion de la efectividad de la decision:
+Si no se resolvio el provlema se evaluara:
+* Se definio incorrectamente el problema?
+* Se cometieron errores cuando se evaluaron las alternativas?
+* Se implemento deficientemente la alternativa correcta?
+
+Como toman decisiones los gerentes
+
+- Planear
+    * Cuales son los objetivos de largo plazo de la empresa
+    * Que estrategias seran las mejores para lograr estos objetivos?
+    * Cuales deben ser los objetivos de corto plazo de la empresa?
+    * que tan dificiles deben ser los objetivos individuales?
+
+- Organizar
+    * Cuantos empleados debo tener que me reporten directamente?
+    * Que tan centralizada debe ser la empresa
+    * Como deben diseñarse los puestos
+    * Cuando debo implementar en la empresa una estructura diferente
+
+- Dirigir
+    * como manejar los empleados poco motivados
+
+- Controlar
+    * Que actividades necesita controlar la empresa
+
+Racionalidad:
+* Total objetividad y logica
+* Problema evidente e inequivoco
+* Objetivo claro y especifico
+* Conocimiento de todas las alternativas y consecuencias posibles
+* Consistencia para tomar la alternativa que maximiza la probabilidad
+  de lograr el objetivo
+* La decision se toma en busca de los mejores intereses para su organizacion.
+  Deben estar alineados con la mision y vision de la empresa y no guiarse
+  por impresiones personales.
+
+Se tiene racionalidad limitada
+* Capacidad de procesar informacion
+* Satisfacer en lugar de maximizar
+* Fenomeno de intensificacion del compromiso.
+  (Ejemplo challenger, querian lanzarlo y se guiaron por el objetivo
+  de lanzar el cohete pero no prestaron atencion a los indicadores de
+  que iba a re explotar GG)
+
+Intuicion
+- Decisiones basadas en la experiencia
+- Decisiones promovidas por impresiones
+- Decisiones conoscitivas
+- Decisiones basadas en valores o etica
+- Procesamiento mental subconsciente
+
+Tipos de decisiones
+Problemas estructurados- Decisiones programados (Procedimiento, regla, politica)
+
+Problemas no estructurados- Decisiones no programadas (unicas)
+
+Condiciones para la toma de decisiones
+- Certidumbre (plazo fijo)
+- Riesgo
+Ejemplo de riesgo: creacion de nueva estacion de esqui
+- Incertidumbre (la eleccion de la alternativa se influencia por la orientacion
+  psicologica del gerente).
+
+Estilos de tomas de decisiones:
+
+Pensamiento Lineal:
+* Fuente de informacion externa.
+* Procesamiento de informacion analitico
+
+Pensamiento No-Lineal
+* Fuente de informacion interna.
+* Procesamiento de informacion por intuicion.
+
+Cosas que nos pueden jugar en contra a la hora de tomar decisiones:
+- Exceso de confianza
+- Retrospectiva
+- Egoismo
+- Costos irrecuperables
+- Casualidad
+- Representacion
+- Disponibilidad
+- Contextualizacion
+- Confirmacion
+- Percepcion selectiva
+- Efecto ancla
+- Beneficios inmediatos
+
+Proceso de la toma de decisiones:
+Metodo para tomar decisiones:
+- Racionalidad
+- Racionalidad limitada
+- Intuicion
+
+Tipos de problemas y decisiones
+- Bien estructurados: programados
+- No estructurados: no programados
+
+Condiciones para la toma de decisiones
+ - Certidumbre
+ - Riesgo
+ - Incertidumbre
+
+Toma de decisiones eficaz en el mundo actual.
+- Comprender las diferencias culturales
+- Sabe rcuando rendirse
+- Utilizar un proceso efectivo para la toma de decisiones
+  - Se enfoca en lo que es importante
+  - Es logico y consistente
+  - Reconoce tanto el pensamiento subjetivo como objetivo
+  - Combina el pensamiento analitico con el intuitivo
+  - Solo requiere de la informacion y el analisis necesario para
+    resolver un problema en particular
+  - Fomenta y fuia la acumulacion de informacion importante y
+    de opiniones informadas
+  - es sencillo facil de utilizar y flexible
+-Construir una organizacion que pueda reconocer lo inesperado y adaptarse rapidamente al entorno modificado
+
+Organizaciones muy confiables:
+- No se dejan engañar por sus exitos
+- Confian en los expertos de primera linea
+- Dejan que las circunstancias inesperadas proporcionen la solucion
+- Aceptan la complejidad
+- Participan pero tambien reconocen sus limites
+
+Conclusion:
+Tomar decisiones hoy en dia en un mundo que cambia rapidamente no es facil.
+Los gerentes exitosos necesitan buenas habilidades
+
+
+Herramientas para la toma de decisiones:
+
+Brainstorming:
+* Ventajas:
+  - Fomenta creatividad
+  - No hay limitaciones
+  - Util en la etapa inicial
+
+* Riesgos:
+  - Calidad del entregable
+
+TGN (Tecnica de Grupo Nominal)
+* Ventajas:
+  - Mejor calidad del entregable
+
+* Riesgos:
+  - Mas costoso 
+  - Se requiere la disponibilidad de gente especializada en el tema
+
+Delfi
+* Ventajas
+  - No necesariamente en la misma area geografica.
+  - 
+
+* Riesgos
+  - Requiere de gente MUY especializada, referentes o especialistas de una misma area.
+  - Requiere mayor planificacion, se debe tener claro que es lo que queremos conseguir, cual es la problematica
+    y que es lo que queremos solucionar.
