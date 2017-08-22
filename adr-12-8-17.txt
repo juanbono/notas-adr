@@ -145,3 +145,11 @@ Issue = Riesgo materializado
 Riesgo = (lo de antes)
 
 
+Consideraciones:
+  - Alcance: hacer de mas o de menos requisitos.
+  - Presupuesto: Costo - oportunidad.
+  - QA: Ni mucho ni poco.
+  - Incumplimiento del cronograma.
+  - Disponibilidad de RRHH especializados: No se sabe como se hace algo.
+  - Recursos fisicos: Oficina, etc.
+  - Governance: Esquema de gobierno.
