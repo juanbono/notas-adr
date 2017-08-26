@@ -9,14 +9,18 @@ Matriz RACI
 Ayuda a hacer una evaluacion de los responsables de las tareas del proyecto.
 
 - Responsable: Es el individuo que tiene como objetivo la *realizacion y entrega* de la tarea, actividad, documento o entregable.
-- Aprobador: Es el dueño del entregable, proporciona la informacion y asegura que los mismos sean completados en tiempo y forma.
-- Consultado: Es un experto en la materia, tiene experiencia y un punto de vista muy importante.
-              Puede ser consultado antes de que se tome una decision sobre un determinado tema. Ej: SME
-- Informado: Individuo que tiene que ser informado despues de que se toma una determinada decision o se completa una tarea.
-             No debe ser necesariamente consultado.
-
+- Aprobador:   Es el dueño del entregable, proporciona la informacion y asegura que los mismos sean completados en tiempo y forma.
+- Consultado:  Es un experto en la materia, tiene experiencia y un punto de vista muy importante.
+               Puede ser consultado antes de que se tome una decision sobre un determinado tema. Ej: SME
+- Informado:   Individuo que tiene que ser informado despues de que se toma una determinada decision o se completa una tarea.
+               No debe ser necesariamente consultado.
 
 Gestion de la demanda: (Requerimientos e Incidentes)
+
+Objetivo: Localizar/Vincular grupo de tareas/actividades y el grupo de roles y responsables.
+
+                                     Actividad <-> Rol
+
 
 Matriz RACI:
 ============
@@ -39,26 +43,28 @@ Tips Generales:
 
 
 Analisis vertical y horizontal:
+===============================
 
-Analisis vertical (a nivel de Roles)
+-- Analisis Vertical (a nivel de Roles)
 
-* Excesivas R a cargo de un mismo rol
+* Excesivas R a cargo de un mismo rol. -> Ver si es posible segregación.
     
-* Inexistencia de espacios vacios
+* Inexistencia de espacios vacios.
 
-* Excesivas A a cargo de un mismo rol
+* Excesivas A a cargo de un mismo rol. -> Ver si es posible segregación.
 
-* Existencia de "R" en tareas independientes entre si
+* Existencia de "R" en tareas independientes entre si. -> Ver si es posible segregación.
 
-Analisis horizontoal (a nivel de tareas)
 
-* Excesivas R en una misma tarea
+-- Analisis Horizontal (a nivel de tareas)
 
-* inexistencai de "R"
+* Excesivas R en una misma tarea. -> Desglose de tareas hasta donde lo podamos costear.
 
-* Demasiadas "C"
+* Inexistencia de "R".
 
-* Excesivas "I" 
+* Demasiadas "C".
+
+* Excesivas "I". -> No hay que informar todo el tiempo a todo el mundo.
 
 
 Riesgo:
@@ -78,7 +84,7 @@ La identificacion y analisis temprano del Riesgo y su gestion proactiva resulta 
 Gestion de Riesgos: Un riesgo esta compuesto por tres elementos fundamentales: Evento Incierto / Probabilidad / Impacto.
 
 * Tipos de riesgos:
-  - Contrato:
+  - Contrato
   - Externo
   - Financiero
   - Funcional
@@ -93,8 +99,11 @@ Gestion de Riesgos: Un riesgo esta compuesto por tres elementos fundamentales: E
   - General
 
 Matriz de Scoring sobre la severidad de los riesgos
+===================================================
+Consideracion: La matriz es estatica, es una foto del estado en ese momento, pero es un tema dinamico por lo que hay que
+               ir actualizandola. Debemos focalizarnos en los riesgos de alta probabilidad y alto impacto.
 ____________________________________________________________________________
-|-------------- ||                      Probabilidad                      ||
+|---------------||                      Probabilidad                       |
 |==========================================================================|
 | Impacto       || 1-Bajo | 2-Bajo/Medio | 3-Medio | 4-Medio/Alto | 5-Alto |
 | 5-Alto        ||        |              |         |              |        |
@@ -105,42 +114,52 @@ ____________________________________________________________________________
 ----------------------------------------------------------------------------
 
 Escala de nivel de Riesgo
+=========================
 ______________________________
-| Clasificacion  | Severidad |
-|=========================== |
+| Clasificación  | Severidad |
+|============================|
 | 0-4            | Bajo      |
 | 6-10           | Medio     |
 | 12-18          | Alto      |
-|____________________________|
+|________________|___________|
 
 ________________________________________________________________________________________
-| Nivel de Escalamiento | Descripcion del Nivel | Severidad del riesgo - Clasificacion |
+| Nivel de Escalamiento | Descripcion del Nivel | Severidad del riesgo - Clasificación |
 | =====================================================================================|
 | Nivel 1               | Comite de direccion,  | Alto                                 |
-|                       | Ejecutivo             |                                      |
+|                       | Ejecutivo.            |                                      |
 | Nivel 2               | Sponsor,              | Medio a Alto                         |
-|                       | Director del proyecto |                                      |
+|                       | Director del proyecto.|                                      |
 | Nivel 3               | Project Manager o     | Bajo a Medio                         |
-|                       | lider de equipo       |                                      |
-|______________________________________________________________________________________|
+|                       | lider de equipo.      |                                      |
+|_______________________|_______________________|______________________________________|
 
+Sirve para ordenar por criticidad y para saber a quien informar.
 
-Medidas que se pueden tomar con los riesgos:
+* Medidas que se pueden tomar con los riesgos:
+  + Mitigar
+  + Aceptar
+  + Transferir
+  + Evitar
 
-+ Mitigar
-+ Aceptar
-+ Transferir
-+ Evitar
+Nombre - Alto nivel
+Descripcion - Mas bajo nivel.
 
-
-Gestion de Issues
-
-Un Issue, es un problema o dificultad qye afecta a las actividades del Proyecto,
+Gestión de Issues
+=================
+Un Issue, es un problema o dificultad que afecta a las actividades del Proyecto,
 Comprometiendo el logro de sus objetivos, alcance, cronograma o presupuesto.
+
+Tabla de Issues (la misma que de riesgos)
+  - Criticidad
+  - Plan de accion
+  - Responsable
+  - Nombre
+  - Descripcion 
 
 Issue != Riesgo
 
-Issue = Riesgo materializado
+** Issue = Riesgo materializado ** 
 
 Riesgo = (lo de antes)
 
@@ -153,3 +172,4 @@ Consideraciones:
   - Disponibilidad de RRHH especializados: No se sabe como se hace algo.
   - Recursos fisicos: Oficina, etc.
   - Governance: Esquema de gobierno.
+

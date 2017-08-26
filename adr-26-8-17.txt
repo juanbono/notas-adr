@@ -1,0 +1,172 @@
+
+Clase de Administracion de Recursos del 26/8/2017
+
+Metricas - Esta ubicada en la fase de monitoreo y control
+
+Las metricas se deben planificar y definir antes de la fase de monitoreo y control. Para que luego esten disponibles.
+
+Las metricas nos dan un dimensionamiento del estado en el que esta el proyecto.
+Poder evaluarlo/medirlo.
+
+Metricas: Combinacion de mediciones de como puede ser evaluado un proyecto, facilitando la comunicación entre los participantes de un proyecto.
+
+Ejemplo: Tipos de métricas
+  - Métricas de Comparación.
+  - Métricas de Seguimiento.
+  - Metricas de Predicción.
+  - Metricas de Información.
+
+Metricas de comparacion:
+Las metrices de comparacion, permiten argumentar el valor que nuestro proyecto,
+aportará a las estrategias, objetivos y metas de la organización.
+
+Ejemplo: Métricas de comparación
+Internas
+* Desempeño
+  - Utilidad/inversion. (Lo que gané dividido lo que inverti)
+  - Recursos/Ventas.  (Lo que vendi dividido la cantidad de vendedores/recursos para la venta)
+  - Costo/Calidad. (La calidad del producto y el costo de realizarlo)
+  - Tiempo/Costo (El costo de hacerlo en un tiempo dado, ver si conviene hacerlo en mas tiempo a menor costo o viceversa)
+
+* Productividad
+  - Eficiencia
+  - Efectividad
+
+Externas
+* Mercado
+  - Participación.
+  - Penetración de Mercado.
+  - Tendencias del Mercado.
+
+* Competencia
+  - Market Share.
+  - Imagen de la empresa.
+  - Nuevos competidores.
+
+Nota: Todas las metricas, deben ser conocidas por los participantes del proyecto,
+      con anticipacion a su ejecucion y seran analizadas en las reuniones de seguimiento.
+
+Metrica de Predicción
+
+Las metricas de prediccion, permiten visualizar los efectos de las acciones futuras, ante posibles escenarios futuros y asi poder
+tomar las decisiones oportunamente.
+
+Ejemplo: Metrica de Prediccion
+  - Forecast (Prediccion de ventas, gastos, etc)
+
+Oficina de Proyectos (PMO)
+==========================
+
+¿Que es una oficina de gestion de proyectos?
+
+* Unidad Organizacional, cuyo proposito central es definir las practicas de gestion de proyectos, introducirlas en la organización y velar por su utilizacion efectiva.
+* Desde un punto de vista estrategico, la PMO permite tener visibilidad sobre el portafolio de Proyectos, controlar e informar su avance a la alta gerencia.
+* Consiste en la aplicacion de conocimientos, habilidades, herramientas y tecnicas a las activiadades de un proyecto, para satisfacer sus necesidades de planificacion, ejecucion y gestion. Metodologias por ejemplo.
+* Colabora estrategicamente con la organizacion para alinear los objetivos del poryecto a los objetivos del negocio.
+* Proporciona metodologia, procedimientos y herramientas par gestionar al proyecto en forma eficaz, proactiva y adecuada. Metricas por ejemplo.
+* Monitorea los aspectos relevantes del proyecto y gestiona desvios.
+
+Espina de pescado: Buscar.
+
+
+
+Responsabilidades de la PMO
+
+* Difundir un procedimiento homogeneo de administracion de Proyectos (plataforma colaborativa (SharePoint), Templates, informes, etc).
+
+* Colaborar con los actuales lideres de proyectos en la utilizacion de dicho procedimiento.
+
+* Gestionar el portafolio de proyectos de la organizacion.
+
+* Informar y brindar visibilidad sobre el estado y avance de proyectos.
+
+* Identificar y gestionar los riesgos e issues del proyecto, generando planes de accion y escalandolos de ser necesario.
+
+* Gestionar desvios y genrar planes de accion
+
+* Aumentar la capacidad de ahorrar tiempo y producir valor (dar visibilidad de acciones que hay que tomar, planes de accion, etc para los problemas, soluciones).
+
+Estados que da el PMO: Historico y Proyeccion
+
+
+Donde se encuentra?:
+Las PMO pueden localizarse en diferentes niveles dentro de la organizacion
+  - A nivel gerencial (objetivo estrategico)
+  - Departamental (objetivo tactico)
+  - Dedicadas a proyectos especificos (objetivo operativo)
+
+Interaccion de la PMO:
+La interaccion de una PMO dentro de una organizacion puede variar, desde una interaccion limitada a la recomendacion de politicas y procedimientos especificos sobre proyectos individuales, hasta una concesion formal de autoridad por parte de la direccion ejecutiva.
+
+Ejemplo:
+
+Interaccion 1:
+* Colaborar en la definicion de la vision y estrategia del proyecto.
+* Alinear los objetivos del poryecto a los objetivos del negocio.
+
+Interaccion 2:
+* Definir la estructura mas adecuada para el proyecto, definiendo Roles y Responsabilidades.
+* Diseñar procesos y herramientas que faciliten la planificacion y ejecucion del proyecto.
+* Recomendar Planes de Accion y mejores practicas.
+
+
+
+Nivel de involucramiento con respecto al nivel de servicio.
+
+2 ejes: Nivel de involucramiento (y) y nivel de servicio (x)
+
+Nivel de servicio 1:
+ * Estandariza metodologias y herramientas..
+
+Nivel de servicio 2:
+ * Estandariza metodologias y herramientas.
+ * Monitorea, gestiona, tiempos, alcance
+ * asesora, recomienda
+
+Nivel de servicio 3:
+ * Estandariza metodologias
+ * Monitorea y gestiona
+ * asesora/recomienda tiempo, costo, alcance y calidad
+ * es responsable de la planificacion y ejecucion de los proyectos.
+
+Mapa de maduracion de gestion de proyectos en una organizacion
+
+Una mapa de madurez consiste en un proceso que nos muestra y explica el camino de una organizacion para alcanzar la excelencia en al gerencia de proyectos, a traves de la ampliacion del campo de accion de la PMO.
+
+proyectos aislados: para probar, ver que tal la PMO
+
+Campo de accion de la PMO
+  - portafolio de proyectos (1era linea)
+  - Portafolio de proyectos (otras lineas)
+  - Portafolio de proyectos (consolidado de la empresa
+
+Cual es la metodologia de trabajo de la oficina de proyectos (PMO)?
+Ejemplo: Herramientas
+
+Procesos:
+  - Para la identficacion, analisis, mitigacion, resolucion de Riesgos e issues.
+  - Para la identificacion de necesidades de Cambios de Alcance, incluyendo la aprobacion de cursos de accion.
+  - Para la generacion de informes del estado general del proyecto, incluyendo indicadores y semaforos.
+  - Para la generacion de Informes de avance, incluyendo los mecanismos de recoleccion de informacion sobre el estado de avance de las actividades definidas y acordadas en el proyecto.
+
+Templates:
+  - Permiten estandarizar el trabajo de los equipos. Ejemplo: Minutas de reunion.
+
+Repositorios:
+  - Base que centraliza la gestion de los documentos y entregables del proyecto.
+    Contribuye a la comunicacion entre los miembros del equipo, reduce la duplicidad de informacion
+    y simplifica su busqueda.
+
+Dos esquemas de PMO
+Centralizada y descentralizada
+
+Centralizada: Los lideres de proyectos reportan a la PMO, y la PMO reporta a la direccion o a los gerentes.
+
+Project managers de la PMO interactuando con los lideres de equipo para reportar a los respectivos geentes de departamento.
+
+Escalamiento de problemas, permite rapida resolucion. Mas responsabilidad y autoridad para la PMO. Project managers trabajan conjuntamente.
+
+Descentralizada: Es mas de soporte, se la llama colaborativa, da sugerencias ,etc.
+
+Provee servicio de reporte, sobre el estado del proyecto. Asesoramiento sobre la metodologia de proyecto y resolucion de problemas.
+
