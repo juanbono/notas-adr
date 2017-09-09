@@ -1,0 +1,111 @@
+
+Clase del 2 de Septiembre del 2017
+
+Desafío de la gestión de la PMO:
+================================
+Según la encuesta realizada por la consultora Forrester sobre las PMO,
+629 encuestados declararon que la actividad de la PMO implica grandes desafíos,
+pero también presenta oportunidades de convertirse en una parte estrategia del negocio.
+Los resultados muestran que uno de sus mayores desafíos es el entendimiento de
+la gestión de proyectos por partes del negocio así como también:
+ * Incrementar la percepción de valor:
+   compartir mejores practicas y experiencia con el fin de seleccionar la práticas
+   que mejor funcionen, evitando malas prácticas. Map analisys(), gapAnalisis()
+ * Educar a los stakeholders que no entienden su papel en el proyecto:
+   A menudo es complejo obtener información y apoyo de los interesados.
+   Por ello se deben ejecutar acciones de comunicación efectivas para ayudar a que
+   los stakeholders cuenten con un mayor entendimiento sobre los responsables.
+	
+ * Mejorar y perfeccionar el uso de herramientas:
+   El 32% de los encuestados citó la utilización de herramientas adecuadas como un reto.
+   Promover el uso de herramientas estandarizadas permite una mejora en la comunicación y
+   en el reporte de información.
+
+¿Cuales son los desafios que enfrenta la Gestión de Proyectos? (Desafíos)
+  * Compresión del negocio de proyectos
+  * Madurez de la organización 
+  * Alineación de la organización
+  * Herramientas adecuadas
+  * Falta de involucramiento de los patrocinadores del proyecto
+  * Colaboración con el proyecto
+  * Falta patrocinio del ejecutivo.
+  * Baja disponibilidad del patrocinador ejecutivo.
+  * Habilidades débiles de liderazgo.
+  * Otras.
+  * No sabe/no contesta.
+
+*Parcial*
+=========
+Anteproyecto está compuesto por:
+  + Resumen ejecutivo
+  + Introducción
+  + Objetivos generales y específicos 
+  + Alcance 
+  + Definición funcional basica
+  + Análisis/Estudio de mercado (FODA, 5 fuerza de Porte, barrera de entrada y salida, Matriz BCG)
+  + Estrategia de negocio
+  + Organigrama
+  + Roadmap
+
+*Los proyectos pueden extender el ciclo de vida del productos o incisiones de uno nuevo*
+ 10 slides mínimo para presentar el anteproyecto.
+    slides:
+      + Disparador
+      + Donde pega
+      + Sustentar porque el análisis de mercado,
+      + El índice,
+      + La conclusión
+      + Claro en contar el cuentito,
+      + El nombre de proyecto
+      + Presentado por:
+      + Dirigido a:
+      + Lo más importante es “Saber humo" + técnico en cada slide,
+      + Los slides tienen que ser de indole comercial, definir un rol a cada uno
+        y tambien qué rol tiene los profesores
+      + La agenda
+
+Ejemplo de Tabucchi de slide:
+  + ¿Quienes somos?
+  + Vision - Mision (razon de ser)
+  + Nuestro proyecto
+  + Objetivo general
+  + Producto
+  + Caracteristicas
+  + Investigacion de mercado
+  + Canal de ventas
+  + Estrategias de marketing 
+  +	promopcion del producto
+estrategia de negocio
+	enfoque
+	diferenciacion
+Inversion
+	Crowdfunding
+Beneficio
+Etapa del proyecto (RoadMap)
+Riesgos principales
+Recursos
+	Recursos humano(muestra el organigrama)
+	Recursos fisicos( que necesitamos)
+Factibilidad
+	Operativa
+	Tecnica
+	Cronograma
+	Economico
+Conclusiones
+otro ejemplo 
+*agregar foda* con su estrategia
+Bambubike
+**As Is** por que utilizar?
+
+**20.
+ * Tipos de planes.
+ * La tripe restriccion
+ * Quien lo hace? (para el plan de adquisición)
+
+Presentacion 
+ tres cajitas:
+   + gantt
+   + roadmap
+   + EDT (statement of work)
+   + Cual es la dependecia que tiene,
+   + Si estoy dentro del proyecto donde va estar las cajitas edt, gannt, etc.
