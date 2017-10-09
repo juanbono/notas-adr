@@ -1,0 +1,112 @@
+
+Clase del 30 de septiembre de 2017:
+
+Roadmap:
+  - etapa/fase: Conjunto de actividades relacionadas de forma logica. 
+  - hitos: Punto de control en el plan, no requiere esfuerzo.
+  - entregables.
+
+Para hacer el roadmap se debe definir primero el alcance.
+
+Linea base: Cuando se acuerda con el proveedor y se acuerdan temas como el presupuesto, forma de trabajo, etc.
+Puede haber una linea base 2, linea base 3, pero siempre controladas por un comite de control del cambio.
+
+Es muy importante en el ERP definir una etapa de conversion de datos ( del sistema anterior al ERP) (agregar esto al roadmap)
+Tener planes para reconfiguraciones posibles de archivos, definir archivos prescindibles, etc.
+Se comienza por los archivos menos importantes en un ambiente de prueba para ver que todo funcione bien.
+
+ciclos de prueba- costo/beneficio
+
+etapa migracion:
+- diseñar enfoque de migracion
+- preparacion del plan de corte
+- simulacion del proceso de migracion de datos (dry run)
+
+- capacitacion
+- entrega de manuales de capacitacion key user
+
+preparacion del despliegue del negocio
+- identificacion de tareas previas al black out.
+- definicion de mecanismos de operacion alternativos durante black out
+- definicon de tareas post-blackout
+- identificacion y desarrollo de herramientas de corte
+- identificacion y desarrollo de herramientas de contigencia.
+
+BBP -  business blueprint (definicion funcional basica)x
+Cuando relevamos procedimientos hay 2 partes
+- as is. (como esta actualmente el procedimiento)
+- to be. (como quiero que sea el resultado)
+
+Ejemplo de parametrizacion en la parte de contabilidad: impuestos (IVA, por ejemplo)
+
+
+Desarrollos de Interfaces:
+- lista maestra de todos los materiales
+- lista maestra de clientes
+
+
+
+
+
+-------### Presentaciones Efectivas:
+
+Factores de influencia:
+
+7 primeros segundos de primera impresion
+
+- competencia profesional
+- relaciones interpersonales
+- actitud y auto-control
+- Como nos comunicamos
+- Nuestra apariencia
+
+distribuirse bien, ser prolijos.
+
+Guia de preparacion:
+- conocer el material.
+- no memorizar palabra por palabra: cuento.
+- soporte de evidencia: evitar exagerar.
+- conocer el tema con mayor profundidad.
+- practicar en distintos foros: laboral, amigos
+- ayudas visuales para clarificar
+- control de nervios: respiracion, actividad fisica.
+- no imitar a los demas: ser uno mismo!
+
+establecer empatia
+
+- considerarse honrado por la presentacion
+- no iniciar con una disculpa
+- nombrar a alguno de los oyentes
+- mantener en un plano de humildad
+- no fruncir el ceño
+- disfrutar la presentacion!
+
+proposito:
+-informar
+-convencer
+
+estructura
+- apertura
+- mensaje
+- evidencia
+- cierre
+
+apertura
+- analogia
+- buena noticia
+- obtener participacion
+- experiencia personal
+- hecho historico
+
+cierre
+puntos clave
+- breve
+- persuadir con logica
+-dejar impresion positiva
+-conectar con apertura
+
+contenido
+-repetir beneficio
+-lanzar desafios
+-recomendaciones
+-citar una frase

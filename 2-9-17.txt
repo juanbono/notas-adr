@@ -109,3 +109,39 @@ Presentacion
    + EDT (statement of work)
    + Cual es la dependecia que tiene,
    + Si estoy dentro del proyecto donde va estar las cajitas edt, gannt, etc.
+
+
+
+Parcial: dudas
+
+Grafico Valor-Complejidad
+
+* Ordena la cartera de productos, de forma de establecer 4 cuadrantes:
+  - alta complejidad, alto valor.
+  - alta complejidad, bajo valor.
+  - baja complejidad, bajo valor.
+  - baja complejidad, alto valor.
+
+Los mas importantes son los de baja complejidad y tienen alto valor.
+
+Priorizacion de los proyectos
+
+Determina criterios de evaluacion y priorizacion de los potenciales proyectos a ejecutar que permiten alcanzar los objetivos estrategicos propuestos en la organizacion.
+La utilizacion de esta herramienta implica la medicion de 2 dimensiones
+
+Valor: evalua el nivel de alineacion del proyecto con la estrategia del negocio, impacto en procesos criticos, satisfaccion del cliente / empleado, evaluacion financiera, etc.
+
+Complejidad: Evalua el nivel de conocimiento/ experiencia requerida, impacto organizacion, coord de equipos y esfuerzo de gestion,
+
+Se maerializa en el grafico con 4 cuadrantes, 2 cuadrantes de importancia
+  - alta complejidad, bajo valor: pueden ser costosos y dificiles, pero necesarios por cuestiones normativas, por lo que hay que realizarlos.
+  - baja complejidad, alto valor: los esfuerzos se deben focalizar en este tipo de proyectos porque generan mayor ganancia realizano menos esfuerzo.
+
+Esto esta relacionado con aspectos normativos, debido a que esto puede impedir la operacion de la empresa en el futuro.
+Sirve para extender o pedir prorroga.
+
+Porter: que representa cada cajita de porter:
+- representan el poder de los clientes / proveedores.
+- representan los de la competencia, cuanta amenazan nos representan.
+
+
